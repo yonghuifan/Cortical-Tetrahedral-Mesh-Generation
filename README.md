@@ -6,3 +6,4 @@ Step2: The input files are Freesurfer's results lh.pial and lh.white.
 Step3: Change some directories in the code to your own directories.
 Step4: Run.
 
+Please cite: A Tetrahedron-based Heat Flux Signature for Cortical Thickness Morphometry Analysis, MICCAI2018
