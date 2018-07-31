@@ -9,3 +9,5 @@ Step4: Run.
 Please cite: 1. Yonghui Fan,etc. A Tetrahedron-based Heat Flux Signature for Cortical Thickness Morphometry Analysis, MICCAI2018
 2. Si, H., 2015. Tetgen, a delaunay-based quality tetrahedral mesh generator. ACM Transactions on Mathematical Software (TOMS) 41, 11.
 3. Fischl, B., Salat, D.H., Busa, E., Albert, M., Dieterich, M., Haselgrove, C., Van Der Kouwe, A., Killiany, R., Kennedy, D., Klaveness, S., et al., 2002. Whole brain segmentation: automated labeling of neuroanatomical structures in the human brain. Neuron 33, 341-355.
+
+Please contact Yonghui Fan (yfan61@asu.edu) if you have any questions.
